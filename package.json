@@ -32,9 +32,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CrawlCove/crawlcove-robots-txt-tester.git"
+    "url": "https://github.com/CrawlCove/robots-txt-tester.git"
   },
-  "homepage": "https://crawlcove.com/tools/robots-txt-generator?utm_source=github&utm_medium=crawlcove-robots-txt-tester",
+  "homepage": "https://crawlcove.com/tools/robots-txt-generator?utm_source=github&utm_medium=robots-txt-tester",
   "dependencies": {
     "commander": "^15.0.0",
     "robots-parser": "^3.0.1"

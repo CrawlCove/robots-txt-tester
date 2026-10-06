@@ -28,7 +28,7 @@ export const SEVERITY = {
 };
 export const DEFAULT_OPTIONS = {
     timeoutMs: 10_000,
-    userAgent: 'crawlcove-robots-txt-tester/1.0 (+https://github.com/CrawlCove/crawlcove-robots-txt-tester)',
+    userAgent: 'crawlcove-robots-txt-tester/1.0 (+https://github.com/CrawlCove/robots-txt-tester)',
     urls: ['/'],
     agents: ['*', 'Googlebot', 'Bingbot'],
     expectAllowed: false,
