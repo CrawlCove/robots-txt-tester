@@ -1,3 +1,5 @@
+<a href="https://crawlcove.com/download?utm_source=github&utm_medium=readme&utm_campaign=robots-txt-tester"><img src="https://raw.githubusercontent.com/CrawlCove/.github/main/banners/robots-txt-tester.svg" width="1200" alt="robots-txt-tester: Fetch and lint a robots.txt, test which URLs each crawler may fetch and see the deciding line. Fails deploys that block the site." /></a>
+
 # crawlcove-robots-txt-tester
 
 A robots.txt tester for the command line: fetch a site's robots.txt, lint it for the mistakes that quietly block a whole site (or do nothing at all), and test exactly which URLs Googlebot, Bingbot or any other crawler may fetch — with the line number that decided each verdict, and a non-zero exit code for CI.
