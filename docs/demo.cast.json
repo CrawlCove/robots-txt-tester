@@ -1,0 +1,56 @@
+{
+ "recorded": "2026-11-20T00:05:07.513Z",
+ "steps": [
+  {
+   "show": "npx github:CrawlCove/robots-txt-tester https://crawlcove.github.io -u /seo-test-site/wholesale/price-list.html -u /seo-test-site/shop/ -a Googlebot -a GPTBot",
+   "exit": 0,
+   "ms": 233,
+   "lines": [
+    {
+     "t": 185,
+     "text": "https://crawlcove.github.io/robots.txt"
+    },
+    {
+     "t": 185,
+     "text": "  HTTP 200, 0.3 KiB, 1 group(s), 1 sitemap(s)"
+    },
+    {
+     "t": 185,
+     "text": "  line 4: User-agent * — 1 rule(s)"
+    },
+    {
+     "t": 185,
+     "text": "  Sitemap: https://crawlcove.github.io/seo-test-site/sitemap.xml"
+    },
+    {
+     "t": 185,
+     "text": ""
+    },
+    {
+     "t": 185,
+     "text": "  ✗ BLOCKED  Googlebot  https://crawlcove.github.io/seo-test-site/wholesale/price-list.html  (line 5)"
+    },
+    {
+     "t": 185,
+     "text": "  ✗ BLOCKED  GPTBot     https://crawlcove.github.io/seo-test-site/wholesale/price-list.html  (line 5)"
+    },
+    {
+     "t": 185,
+     "text": "  ✓ allowed  Googlebot  https://crawlcove.github.io/seo-test-site/shop/"
+    },
+    {
+     "t": 185,
+     "text": "  ✓ allowed  GPTBot     https://crawlcove.github.io/seo-test-site/shop/"
+    },
+    {
+     "t": 185,
+     "text": ""
+    },
+    {
+     "t": 185,
+     "text": "0 error(s), 0 warning(s)."
+    }
+   ]
+  }
+ ]
+}

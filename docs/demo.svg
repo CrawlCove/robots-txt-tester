@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="350" viewBox="0 0 980 350" role="img" aria-label="robots-txt-tester: terminal recording of npx github:CrawlCove/robots-txt-tester https://crawlcove.github.io -u /seo-test-site/wholesale/price-list.html -u /seo-test-site/shop/ -a Googlebot -a GPTBot">
+<title>robots-txt-tester: npx github:CrawlCove/robots-txt-tester https://crawlcove.github.io -u /seo-test-site/wholesale/price-list.html -u /seo-test-site/shop/ -a Googlebot -a GPTBot</title>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:14px;white-space:pre}
+.ln{opacity:0}
+@keyframes k0{0%,4.27%{opacity:0}4.28%,99.5%{opacity:1}100%{opacity:0}}.l0{animation:k0 9375ms linear infinite}
+@keyframes t0{0%,4.27%{width:0}21.33%,99.5%{width:600px}100%{width:0}}#c0{animation:t0 9375ms steps(71,end) infinite}
+@keyframes k1{0%,22.61%{opacity:0}22.62%,99.5%{opacity:1}100%{opacity:0}}.l1{animation:k1 9375ms linear infinite}
+@keyframes t1{0%,22.61%{width:0}39.68%,99.5%{width:752px}100%{width:0}}#c1{animation:t1 9375ms steps(89,end) infinite}
+@keyframes k2{0%,45.60%{opacity:0}45.61%,99.5%{opacity:1}100%{opacity:0}}.l2{animation:k2 9375ms linear infinite}
+@keyframes k3{0%,46.24%{opacity:0}46.25%,99.5%{opacity:1}100%{opacity:0}}.l3{animation:k3 9375ms linear infinite}
+@keyframes k4{0%,46.88%{opacity:0}46.89%,99.5%{opacity:1}100%{opacity:0}}.l4{animation:k4 9375ms linear infinite}
+@keyframes k5{0%,47.52%{opacity:0}47.53%,99.5%{opacity:1}100%{opacity:0}}.l5{animation:k5 9375ms linear infinite}
+@keyframes k6{0%,48.16%{opacity:0}48.17%,99.5%{opacity:1}100%{opacity:0}}.l6{animation:k6 9375ms linear infinite}
+@keyframes k7{0%,48.80%{opacity:0}48.81%,99.5%{opacity:1}100%{opacity:0}}.l7{animation:k7 9375ms linear infinite}
+@keyframes k8{0%,49.44%{opacity:0}49.45%,99.5%{opacity:1}100%{opacity:0}}.l8{animation:k8 9375ms linear infinite}
+@keyframes k9{0%,50.08%{opacity:0}50.09%,99.5%{opacity:1}100%{opacity:0}}.l9{animation:k9 9375ms linear infinite}
+@keyframes k10{0%,50.72%{opacity:0}50.73%,99.5%{opacity:1}100%{opacity:0}}.l10{animation:k10 9375ms linear infinite}
+@keyframes k11{0%,51.36%{opacity:0}51.37%,99.5%{opacity:1}100%{opacity:0}}.l11{animation:k11 9375ms linear infinite}
+@keyframes k12{0%,52.00%{opacity:0}52.01%,99.5%{opacity:1}100%{opacity:0}}.l12{animation:k12 9375ms linear infinite}
+</style>
+<defs><clipPath id="p0"><rect id="c0" x="39" y="68" height="20" width="0"/></clipPath><clipPath id="p1"><rect id="c1" x="39" y="88" height="20" width="0"/></clipPath></defs>
+<rect width="980" height="350" rx="12" fill="#0B0E16" stroke="#1E2533"/>
+<rect width="980" height="36" rx="12" fill="#121723"/><rect y="24" width="980" height="12" fill="#121723"/>
+<circle cx="22" cy="18" r="6" fill="#FF5C7A"/><circle cx="42" cy="18" r="6" fill="#FFB020"/><circle cx="62" cy="18" r="6" fill="#34F5C5"/>
+<text x="490" y="23" fill="#8A93A6" text-anchor="middle" style="font-size:13px">robots-txt-tester</text>
+<g class="ln l0"><text x="22" y="83" fill="#22D3EE">$</text><g clip-path="url(#p0)"><text x="39" y="83" fill="#F2F5FA">npx github:CrawlCove/robots-txt-tester https://crawlcove.github.io -u \</text></g></g>
+<g class="ln l1"><text x="22" y="103" fill="#22D3EE"></text><g clip-path="url(#p1)"><text x="39" y="103" fill="#F2F5FA">  /seo-test-site/wholesale/price-list.html -u /seo-test-site/shop/ -a Googlebot -a GPTBot</text></g></g>
+<text class="ln l2" x="22" y="123" fill="#C7CEDB">https://crawlcove.github.io/robots.txt</text>
+<text class="ln l3" x="22" y="143" fill="#34F5C5">  HTTP 200, 0.3 KiB, 1 group(s), 1 sitemap(s)</text>
+<text class="ln l4" x="22" y="163" fill="#C7CEDB">  line 4: User-agent * — 1 rule(s)</text>
+<text class="ln l5" x="22" y="183" fill="#C7CEDB">  Sitemap: https://crawlcove.github.io/seo-test-site/sitemap.xml</text>
+<text class="ln l6" x="22" y="203" fill="#C7CEDB"> </text>
+<text class="ln l7" x="22" y="223" fill="#FF5C7A">  ✗ BLOCKED  Googlebot  https://crawlcove.github.io/seo-test-site/wholesale/price-list.html  (line 5)</text>
+<text class="ln l8" x="22" y="243" fill="#FF5C7A">  ✗ BLOCKED  GPTBot     https://crawlcove.github.io/seo-test-site/wholesale/price-list.html  (line 5)</text>
+<text class="ln l9" x="22" y="263" fill="#34F5C5">  ✓ allowed  Googlebot  https://crawlcove.github.io/seo-test-site/shop/</text>
+<text class="ln l10" x="22" y="283" fill="#34F5C5">  ✓ allowed  GPTBot     https://crawlcove.github.io/seo-test-site/shop/</text>
+<text class="ln l11" x="22" y="303" fill="#C7CEDB"> </text>
+<text class="ln l12" x="22" y="323" fill="#34F5C5">0 error(s), 0 warning(s).</text>
+</svg>
