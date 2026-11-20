@@ -8,7 +8,7 @@ Need to write one instead? Use [crawlcove.com/tools/robots-txt-generator](https:
 
 <img src="docs/demo.svg" width="980" alt="Terminal recording: testing the SEO test site robots.txt shows the wholesale page blocked for Googlebot and GPTBot by line 5">
 
-*Recorded from a real run against [seo-test-site](https://github.com/CrawlCove/seo-test-site), a public site with 54 planted SEO problems that you can test against too.*
+*Recorded from a real run against [seo-test-site](https://github.com/CrawlCove/seo-test-site), a public site full of planted SEO problems that you can test against too.*
 
 ## Quick start
 
